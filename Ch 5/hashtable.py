@@ -55,4 +55,3 @@ if __name__ == "__main__":
     for i in range(30):
         table.insert(str(i), round(np.random.rand(), 2))
     print(table)
-    
